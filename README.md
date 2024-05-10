@@ -1,27 +1,10 @@
 # COMM4190 Spring 2024 - Research Project
 
-* Use this repository for your Research Project
+Recent developments in artificial intelligence (AI) have created new opportunities for mental health care, especially through the use of AI chatbots or Large Language Models (LLMs). These AI technologies have the ability to give accessible, on-demand emotional support by participating in human-like conversations and tailoring replies to user input. Thus, I wanted to examine this specific communicative context and explore whether and how LLMs might be used and the associated implications.
+
+This research project will look at the effects of using AI  in the context of therapy by comparing two alternative LLMs: Claude-3-Opus, a censored AI, and an uncensored LLM. In this therapeutic context, I will engage in a simulated therapy session where I play the role of the patient and the AI serves as the therapist. 
+
+I performed a literature review to figure out the present state of knowledge on AI's implications regarding therapy and mental health. 
+By combining literary findings with the results from modeled therapy sessions, I plan on contributing to the increasing amount of work on the use of AI in mental health support. 
 
 
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representative, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
-I am thinking of having AI play a therapist with me, where I am the patient and the AI tool is the therapist. I am going to probably use both a censored LLM, like Claude-3-opus as they provide very well thought-out text, and then an uncensored LLM, to see if there is a difference in how far they are willing to help or the types of topics they are willing to handle. Right now, I am in the process of finding research that talks about AI's implications for therapy and health & wellness and I hope to coincide those findings with my findings from the AI. 
