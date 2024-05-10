@@ -8,3 +8,5 @@ I performed a literature review to figure out the present state of knowledge on 
 By combining literary findings with the results from modeled therapy sessions, I plan on contributing to the increasing amount of work on the use of AI in mental health support. 
 
 
+[Click here to open the paper](Research_Paper.ipynb)
+
